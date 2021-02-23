@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Projeto NLW04 RocketSeat
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto está seguindo o modelo do [Figma](https://www.figma.com/file/NOXTdMez0L9GQ5BdXZUr4P/Move.it-1.0-(Copy)?node-id=160:2761).
 
 ## Available Scripts
 
